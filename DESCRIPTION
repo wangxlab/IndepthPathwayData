@@ -1,0 +1,19 @@
+Package: preCalmatrix
+Type: Package
+Title: preCalmatrix
+Version: 0.1.0
+Author@R: 
+    person("Sanghoon", "Lee", , "sal170@pitt.edu", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0001-8564-2392"))
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: CC0
+Encoding: UTF-8
+LazyData: true
+LazyDataCompression: xz
+Packaged: 2023-06-10 20:08:21 UTC; sal170
+Author: Sanghoon Lee [aut, cre] (<https://orcid.org/0000-0001-8564-2392>)
+Maintainer: Sanghoon Lee <sal170@pitt.edu>
+RoxygenNote: 7.2.3
+Depends: 
+    R (>= 2.10)
