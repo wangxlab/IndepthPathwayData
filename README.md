@@ -5,10 +5,6 @@ date: "2023-07-04"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## IndepthPathwayData, preCalmatrix 
 
 The preCalmatrix will be used to penalize the redundancy between molecular signatures associated with each gene. This will reduce the inflation effect on the uniConSig scores.
