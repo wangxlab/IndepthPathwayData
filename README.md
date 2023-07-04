@@ -18,6 +18,6 @@ install.packages("devtools")
 library(devtools)
 
 devtools::install_github("wangxlab/IndepthPathwayData")
-library(IndepthPathwayData)```
+library(IndepthPathwayData)
 ```
 
